@@ -1,3 +1,4 @@
+<?php
 function solution($N) {
     $bin = str_split(decbin($N));
     $length = sizeof($bin);
