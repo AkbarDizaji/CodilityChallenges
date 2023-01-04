@@ -1,3 +1,4 @@
+<?php 
 function solution($A, $K) {
     if(count($A)==0){
         return $A;
@@ -11,7 +12,7 @@ function solution($A, $K) {
 }
 
 
-//In this case when array's size is less than $K so we would get error of index in line 21
+//In this case when array's size is less than $K so we would get error of index in line 22
 function badSolution($A, $K) {
     // Implement your solution here
     $arr = array();
