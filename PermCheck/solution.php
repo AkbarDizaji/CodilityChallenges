@@ -1,5 +1,18 @@
 <?php
-
+function solution($A) {
+    $N=count($A);
+    // Implement your solution 
+    sort($A);
+    if($A[0]!=1){
+        return 0;
+    }
+    for($i=0;$i<$N-1;$i++){
+        if($A[$i]+1 != $A[$i+1]){
+            return 0;
+        }
+    }
+    return 1;
+}
 
 
 
