@@ -1,8 +1,16 @@
 # CodilityChallenges
-In this repository I gonna solve the challenges that I found in Codility. 
+In this repository, I solved the challenges that I found in Codility.
 
-All solutions got 100% in the correctness and performance.
-In Some cases we have 2 approachs: 
 
-1. The main which get best record. 
-2. The common solution which may comes to mind first.
+All codes were implemented by PHP.
+
+
+For each problem, you can find the independent directory and in that, you can these 2 files:
+
+1. Problem Description: As its name refers, you can find the problem here.
+2. solution.php: In this file, I developed the algorithm.
+
+All solutions got 100% in correctness and performance. In Some cases we have 2 approaches:
+
+1. The main which gets the best record.
+2. The common solution which may come to mind first.
