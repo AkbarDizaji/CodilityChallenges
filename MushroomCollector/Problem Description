@@ -1,3 +1,6 @@
+//This problem defined in learning test of codility
+
+
 Problem: You are given a non-empty, zero-indexed array A of n (1 <= n <= 100 000) integers
 a0, a1, . . . , an−1 (0 <= ai <= 1 000). 
 This array represents number of mushrooms growing on the
