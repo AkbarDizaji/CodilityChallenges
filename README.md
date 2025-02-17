@@ -14,3 +14,8 @@ All solutions got 100% in correctness and performance. In Some cases we have 2 a
 
 1. The main which gets the best record.
 2. The common solution which may come to mind first.
+
+
+
+------------------------------------------------------------
+https://app.codility.com/programmers/lessons/1-iterations/
